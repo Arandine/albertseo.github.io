@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introductions on Blog of Albert Hyunwook Seo</title>
+    <link>https://arandine.github.io/introduction/</link>
+    <description>Recent content in Introductions on Blog of Albert Hyunwook Seo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 18:11:08 -0600</lastBuildDate>
+    <atom:link href="https://arandine.github.io/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction</title>
+      <link>https://arandine.github.io/introduction/introduction/</link>
+      <pubDate>Thu, 08 Feb 2024 18:11:08 -0600</pubDate>
+      <guid>https://arandine.github.io/introduction/introduction/</guid>
+      <description>About Me!</description>
+    </item>
+  </channel>
+</rss>
