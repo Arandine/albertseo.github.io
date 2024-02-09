@@ -1,4 +1,0 @@
-baseURL = 'https://arandine.github.io/'
-languageCode = 'en-us'
-title = 'Blog of Albert Hyunwook Seo'
-theme='hugo-developer-portfolio'

@@ -1,26 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Blog of Albert Hyunwook Seo</title>
+    <title>Blog of Albert Seo</title>
     <link>https://arandine.github.io/</link>
-    <description>Recent content on Blog of Albert Hyunwook Seo</description>
+    <description>Recent content on Blog of Albert Seo</description>
+    <image>
+      <title>Blog of Albert Seo</title>
+      <url>https://arandine.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://arandine.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 08 Feb 2024 18:11:08 -0600</lastBuildDate>
+    <language>en</language>
     <atom:link href="https://arandine.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>https://arandine.github.io/introduction/introduction/</link>
-      <pubDate>Thu, 08 Feb 2024 18:11:08 -0600</pubDate>
-      <guid>https://arandine.github.io/introduction/introduction/</guid>
-      <description>About Me!</description>
-    </item>
-    <item>
-      <title>Making a new Website</title>
-      <link>https://arandine.github.io/introduction/first-blog/</link>
-      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
-      <guid>https://arandine.github.io/introduction/first-blog/</guid>
-      <description>For a long time this website has had a couple of links to contact me, but those days are over.&#xA;Now I have a brand new Hugo website with a custom written theme complete with&#xA;A homepage with more social links, and description of my skills An about page with description of who I am A portfolio page to showcase all my projects A blog Why Hugo? The first question is why a site builder?</description>
-    </item>
   </channel>
 </rss>

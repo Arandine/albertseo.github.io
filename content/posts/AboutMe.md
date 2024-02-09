@@ -1,9 +1,9 @@
 ---
-title: "My 1st post"
-date: {{ .Date | time.Format ":date_medium" }}
+title: "About Me!"
+date: 2024-02-08T19:30:06+00:00
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
+tags: ["About Me"]
 author: "Albert Seo"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -11,7 +11,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Desc Text."
+description: "What am I up to?"
 canonicalURL: "https://canonical.url/to/page"
 disableHLJS: true # to disable highlightjs
 disableShare: false
@@ -25,7 +25,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    #image: "<image path/url>" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -35,3 +35,6 @@ editPost:
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 ---
+
+I am a first year undergraduate student, I am very interested in research, particularly in areas including AI! \
+I have also done some game development using Unity, and Molecular Dynamics using VMD. 
